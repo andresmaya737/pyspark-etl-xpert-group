@@ -1,2 +1,9 @@
 pytest
 pyspark>=3.4
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+py4j==0.10.9.9
+Pygments==2.19.2
+pyspark==4.0.0
+pytest==8.4.1
